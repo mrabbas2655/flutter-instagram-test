@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:instagram/view/homeScanner.dart';
+import 'package:instagram/screens/homeScanner.dart';
 
 void main() {
   runApp(const MyApp());
