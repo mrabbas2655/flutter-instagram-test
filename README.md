@@ -51,13 +51,11 @@ flutter run
 
 📅 Release & Update History
 
-Initial Release: [First Commit Date]
+Initial Release: [۱۴۰۳/۱۲/۱۵ | 2025/03/05]
 
-Last Update: [Last Commit Date]
+Last Update: [۱۴۰۳/۱۲/۱۵ | 2025/03/05]
 
-Total Commits: [Number of Commits]
 
-Total Contributions: [Total Contributions]
 
 
 
@@ -67,7 +65,7 @@ Total Contributions: [Total Contributions]
 
 This project is released under the MIT License. Feel free to use it, but please give credit to the author.
 
-📞 Contact Me
+📞 Contact Me 09981384403
 
 📩 If you have any questions or suggestions, feel free to reach out via GitHub.
 
